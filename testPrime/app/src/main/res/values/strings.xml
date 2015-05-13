@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testPrime</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_level">LevelActivity</string>
+    <string name="score">Score:</string>
+    <string name="level">Level:</string>
+    <string name="restart_game">Restart game?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="win">you win</string>
+
+</resources>
